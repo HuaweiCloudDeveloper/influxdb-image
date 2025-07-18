@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[InfluxDB分布式时序数据库使用指南]()
+[InfluxDB分布式时序数据库使用指南](https://marketplace.huaweicloud.com/hidden/contents/a9cfecb8-a2db-45d3-b41a-f405ad18b065#productid=OFFI1151328119301599232)
 
 # 二、商品说明
 
@@ -47,7 +47,7 @@ InfluxDB是一款开源的分布式时序数据库‌（Time-Series Database, TS
 ![img_1.png](images/img_1.png)
 选择镜像
 ![img_2.png](images/img_2.png)
-其他参数根据实际请客进行填写，填写完成之后，点击立即购买即可
+其他参数根据实际情况进行填写，填写完成之后，点击立即购买即可
 ![img_3.png](images/img_3.png)
 
 
