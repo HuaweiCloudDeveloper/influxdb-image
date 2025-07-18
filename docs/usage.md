@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[InfluxDB分布式时序数据库使用指南](https://marketplace.huaweicloud.com/hidden/contents/a9cfecb8-a2db-45d3-b41a-f405ad18b065#productid=OFFI1151328119301599232)
+[InfluxDB分布式时序数据库](https://marketplace.huaweicloud.com/hidden/contents/a9cfecb8-a2db-45d3-b41a-f405ad18b065#productid=OFFI1151328119301599232)
 
 # 二、商品说明
 
