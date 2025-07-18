@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[InfluxDB分布式时序数据库]()
+- 镜像商品：[InfluxDB分布式时序数据库](https://marketplace.huaweicloud.com/hidden/contents/a9cfecb8-a2db-45d3-b41a-f405ad18b065#productid=OFFI1151328119301599232)
 - 镜像规格：InfluxDB-2.7.1-kunpeng-HCE
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：ARM
