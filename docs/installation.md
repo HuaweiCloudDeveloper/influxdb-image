@@ -1,4 +1,4 @@
-# Hadoop部署指南
+# Influxdb部署指南
 
 ## ‌一、环境准备
 ### 系统配置
@@ -9,5 +9,5 @@
 > - Disk: 至少 40GrB
 
 ## ‌二、安装部署部署
-安装部署脚本：[spark_deployment](../scripts/deploy_influxdb.sh)
+安装部署脚本：[deploy_influxdb](../scripts/deploy_influxdb.sh)
 
