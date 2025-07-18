@@ -21,7 +21,7 @@
 - **Nanosecond-level Time Precision**: Supports high-precision timestamps (nanosecond level) to ensure accurate storage and query of data in chronological order.
 - **Optimized Data Model**: Organizes data through tags and fields, supporting flexible real-time analysis functions (such as continuous queries and stream processing).
 
-The open-source image product [**InfluxDB Distributed Time Series Database**]() provided by this project has InfluxDB version 2.7.1 and its related runtime environment pre-installed, and also provides deployment templates. Refer to the usage guide and start your "ready-to-use" efficient experience now!
+The open-source image product [**InfluxDB Distributed Time Series Database**](https://marketplace.huaweicloud.com/intl/hidden/contents/05dd0dd4-1992-4dd9-ad9c-95126f1a649b) provided by this project has InfluxDB version 2.7.1 and its related runtime environment pre-installed, and also provides deployment templates. Refer to the usage guide and start your "ready-to-use" efficient experience now!
 
 > **System requirements are as follows:**
 > - CPU: 2 vCPUs or higher
